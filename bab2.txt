@@ -1,0 +1,65 @@
+2. dasar teori
+
+2.1 Kerangka Teoritis
+Kerangka teoritis penelitian ini mencakup konsep-konsep kunci, teori-teori terkait, kerangka konseptual, hipotesis, variabel penelitian, dan kaitan dengan penelitian terdahulu.
+
+2.1.1 Konsep-konsep Kunci
+
+Gangguan psikologis adalah kondisi yang memengaruhi fungsi pikiran, perasaan, dan perilaku individu. Dalam konteks penelitian ini, gangguan psikologis menjadi fokus utama sebagai variabel penelitian.
+
+2.1.2 Sistem Pakar
+Sistem pakar adalah model komputasional yang dirancang untuk meniru proses pengambilan keputusan manusia dalam suatu domain tertentu. Dalam penelitian ini, sistem pakar digunakan sebagai alat untuk mendeteksi gangguan psikologis.
+
+2.1.3 Forward Chaining
+
+Forward chaining adalah metode dalam sistem pakar di mana sistem mulai dengan informasi awal dan bergerak maju untuk mencapai tujuan tertentu. Metode ini digunakan untuk pengambilan keputusan dalam mendeteksi gangguan psikologis.
+
+2.2 Penelitian Terkait
+Dalam membahas penelitian terkait, kami mengevaluasi 10 jurnal kredibel terbaru yang membahas deteksi dini gangguan psikologis dengan pendekatan sistem pakar. Evaluasi mencakup persamaan dan perbedaan dengan penelitian ini, dengan memberikan penekanan pada publikasi kurang dari 5 tahun.
+
+2.2.1 "Sadiku, M. N. O., Olanrewaju, K. B., Dada, E. A., & Musa, S. M. (2021). Expert systems in healthcare. Journal of Scientific and Engineering Research, 8(2), 218-222. ISSN: 2394-2630. CODEN(USA): JSERBR. URL: http://www.jsaer.com/articles/Vol8Iss2/JSER_0822_218-222.pdf"
+Jurnal tersebut membahas tentang penerapan sistem pakar (expert systems) dalam bidang kesehatan. Sistem pakar merupakan program komputer yang memiliki basis pengetahuan dan seperangkat aturan yang dapat menyimpulkan fakta-fakta baru dari pengetahuan yang dimilikinya. Artikel ini memberikan gambaran singkat tentang aplikasi sistem pakar dalam bidang kesehatan, serta menyoroti manfaat penggunaan kecerdasan buatan untuk mereplikasi keahlian manusia dalam aktivitas pemecahan masalah. Beberapa manfaat yang disorotkan meliputi aksesibilitas pengetahuan ahli, meringankan tugas rutin ahli, dan memberikan cara yang berguna bagi ahli untuk mengembangkan dan menguji ide dan teori. Selain itu, artikel ini juga membahas struktur sistem pakar, aplikasi dalam bidang kesehatan, serta manfaat dan tantangan yang terkait dengan penggunaan sistem pakar dalam konteks kesehatan.
+
+2.2.2 "Hendra, Y., Parapat, A., & Juniansha, D. (2020). Sistem Pakar untuk Diagnosa Penyakit Kejiwaan dengan Menggunakan Metode Teorema Bayes. Jurnal SIMIKA, 3(1), 94-108."
+Makalah tersebut membahas tentang penggunaan kecerdasan buatan (Artificial Intelligence) dalam mendeteksi penyakit kejiwaan dan pengembangan sistem pakar untuk membantu dalam diagnosis dini. Sistem ini dirancang untuk mengidentifikasi gejala dan mendiagnosis 4 jenis penyakit kejiwaan, dengan tujuan mendeteksi penyakit kejiwaan secara dini dan memberikan wawasan berharga dari pengetahuan psikiater. Makalah ini membahas tentang metode teorema Bayes yang digunakan dalam sistem pakar, tabel gejala, matriks gejala, pohon keputusan, aturan atau rule, dan form konsultasi. Selain itu, makalah ini juga membahas tentang bagaimana sistem ini menggabungkan pengetahuan dari psikiater untuk meningkatkan kemampuan diagnosis.
+
+2.2.3 "Sholeha, E.W., Sabella, B., Kusrini, W., & Komalasari, S. (2023). Sistem Pakar Penyakit Kesehatan Mental Remaja Menggunakan Metode Forward Chaining dan Certainty Factor. Kumpulan Jurnal Ilmu Komputer (KLIK), 10(1), 82-90. ISSN: 2406-7857."
+Dalam jurnal "Sistem Pakar Penyakit Mental Remaja" yang diterbitkan dalam Kumpulan Jurnal Ilmu Komputer (KLIK) Volume 10 No. 01 2023, Eka Wahyu Sholeha dan timnya membahas pengembangan sistem pakar untuk mendiagnosis gangguan kesehatan mental pada remaja menggunakan metode Forward Chaining dan Certainty Factor. Mereka menyoroti masalah keterbatasan informasi, waktu, dan biaya yang membuat orang enggan mencari pertolongan dari ahli seperti psikolog. Selain itu, kurangnya literasi mengenai kesehatan mental di masyarakat Indonesia juga menjadi hambatan. Mereka menekankan bahwa perkembangan teknologi saat ini memungkinkan pengetahuan seorang ahli atau pakar diintegrasikan ke dalam sistem sebagai knowledge menggunakan kecerdasan buatan yang disebut sistem pakar. Sistem pakar ini memberikan nilai tambah pada teknologi di era informasi yang semakin canggih. Dalam jurnal ini, juga dijelaskan bahwa pengguna akan memilih beberapa pernyataan mengenai gejala-gejala yang dirasakan selama 2 minggu terakhir untuk menggunakan sistem pakar ini. Selain itu, penelitian ini juga melibatkan kolaborasi antara ahli komputer dan psikolog Islam untuk mengembangkan sistem pakar ini. Dengan demikian, jurnal ini membahas tentang penerapan teknologi informasi dalam bidang kesehatan mental remaja dengan pendekatan kolaboratif antara berbagai disiplin ilmu ,[object Object],, ,[object Object],, ,[object Object],.
+
+2.2.4 "Istya, R. A., & Astutik, I. R. I. (2023). Expert System for Mental Health Condition Detection in Generation Z Using Backward Chaining Method. Journal of Mental Health Studies, 10(2), 45-60."
+Dalam penelitian ini, peneliti bertujuan untuk mengembangkan aplikasi sistem pakar yang menggunakan metode Backward Chaining untuk mendeteksi kondisi kesehatan mental pada Generasi Z. Penelitian dilakukan dengan mengumpulkan data mengenai gejala-gejala yang terkait dengan kondisi kesehatan mental pada Generasi Z. Selanjutnya, aturan-aturan yang menghubungkan gejala dengan penyakit dibangun dalam basis pengetahuan sistem pakar.
+
+Untuk menguji keefektifan sistem pakar, dilakukan pengujian menggunakan metode black box testing dan pengujian pakar. Metode black box testing digunakan untuk menguji fungsionalitas dan akurasi sistem pakar tanpa mengetahui detail implementasinya. Sedangkan pengujian pakar melibatkan ahli di bidang kesehatan mental untuk memvalidasi kebenaran hasil deteksi yang diberikan oleh sistem pakar.
+
+Hasil pengujian menunjukkan bahwa sistem pakar ini memiliki tingkat akurasi sebesar 91,67%. Hal ini menunjukkan bahwa sistem pakar dapat memberikan deteksi kondisi kesehatan mental pada Generasi Z dengan tingkat keakuratan yang tinggi.
+
+2.2.5 "Al-Hajji, A. A., AlSuhaibani, F. M., & AlHarbi, N. S. (2019). AN ONLINE EXPERT SYSTEM FOR PSYCHIATRIC DIAGNOSIS. International Journal of Artificial Intelligence and Applications (IJAIA), 10(2), 59. DOI: 10.5121/ijaia.2019.10206"
+Artikel ini membahas tentang pengembangan sistem pakar berbasis aturan untuk diagnosis penyakit psikiatri. Penelitian ini menggunakan kecerdasan buatan untuk mengumpulkan dan menggunakan informasi dan keahlian dari para ahli dalam bidang psikologi. Sistem pakar ini bekerja dengan mengumpulkan data gejala dari pasien dan menganalisisnya menggunakan aturan yang telah ditentukan. Sistem ini dapat mendiagnosis dan mengobati lebih dari empat jenis penyakit psikiatri, seperti depresi, gangguan kecemasan, gangguan obsesif-kompulsif, dan histeria. Penelitian ini bertujuan untuk membantu praktisi psikologi dan dokter dalam mendiagnosis kondisi pasien dengan cepat dan efisien.
+
+2.2.6 "Jurnal Sarjana Teknik Informatika e-ISSN 2338-5197 Vol. 7, No. 1, Februari 2019, pp. 1-19 1 Sistem Pakar Deteksi Dini Gangguan Kecemasan ( Anxiety ) Menggunakan Metode Forward Chaining Berbasis Web, Farajullah & Murinto. Program Studi Teknik Informatika, Universitas Ahmad Dahlan"
+Dalam penelitian ini, peneliti menggunakan metode pengembangan modified waterfall untuk mengembangkan sistem pakar deteksi dini gangguan kecemasan. Tahapan pengembangan melibatkan implementasi sistem pakar berbasis web dengan menggunakan bahasa pemrograman PHP dan basis pengetahuan yang tersimpan dalam database. Sistem pakar ini menggunakan metode inferensi forward chaining untuk mendiagnosis gangguan kecemasan berdasarkan gejala yang diinputkan. Pengujian sistem dilakukan menggunakan metode black box dan alpha test. Hasil pengujian diharapkan sesuai dengan diagnosa manual yang dilakukan oleh para psikolog.
+
+2.2.7 "Daniel Dwi Kurnia 1 , Septi Andryana 2 , Aris Gunaryati 3 Universitas Nasional, Informatika, Fakultas Teknologi Komunikasi dan Informatika Jl. Sawo Manila, Pejaten, Pasar Minggu, Jakarta Selatan 12520"
+Artikel ini membahas tentang pengembangan aplikasi sistem pakar berbasis website untuk mendiagnosa gangguan kesehatan mental menggunakan algoritma genetika. Gangguan kesehatan mental, seperti depresi dan skizofrenia, dapat berdampak serius pada kehidupan seseorang. 
+Dalam penelitian ini, sistem pakar untuk mendiagnosa gangguan kesehatan mental menggunakan algoritma genetika telah dikembangkan. Pengujian sistem pakar dilakukan dengan membandingkan hasil diagnosa dengan data dari pakar. Dari hasil pengujian pada 20 kasus, 17 kasus sesuai dengan analisis pakar, menunjukkan tingkat kecocokan sebesar 85%. Hasil yang ditampilkan oleh sistem sesuai dengan analisa pakar, sehingga aplikasi ini dapat membantu dalam mendiagnosa gangguan kesehatan mental.
+
+2.2.8 "Expert System for Diagnosing Early Childhood Developmental Disorders with Certainty Factor Method Nandang Hermanto, Zulfiqar Shertian Ramadhan Informatics Engineering Study Program, U niv ersitas AMIKOM Purwokerto, Central Java, Indonesia. I n ternational Journal of Informatics and Information System s Vol. 1 , No. 1, September 2018 , pp. 9 - 1 5 ISSN 2579 - 7069"
+Penelitian ini melibatkan perancangan dan pembangunan sistem pakar untuk mendiagnosis jenis gangguan perkembangan pada anak secara dini. Metode yang digunakan dalam penelitian ini adalah metode faktor kepastian. Sistem pakar ini dikembangkan menggunakan bahasa pemrograman PHP dan database MySQL.
+
+Langkah-langkah pengembangan sistem pakar ini meliputi:
+1. Analisis kebutuhan: Peneliti melakukan analisis terhadap kebutuhan pengguna dan jenis gangguan perkembangan yang akan didiagnosis.
+2. Perancangan sistem: Peneliti merancang struktur sistem pakar, termasuk aturan-aturan yang digunakan untuk mendiagnosis gangguan perkembangan.
+3. Implementasi: Sistem pakar ini diimplementasikan menggunakan bahasa pemrograman PHP dan database MySQL.
+4. Pengujian: Sistem pakar diuji untuk memastikan keakuratan dan kinerjanya dalam mendiagnosis gangguan perkembangan pada anak.
+5. Evaluasi: Hasil pengujian dievaluasi untuk mengevaluasi keberhasilan sistem pakar dalam mendiagnosis gangguan perkembangan pada anak.
+
+Dalam penelitian ini, sistem pakar yang dikembangkan berhasil dalam mendiagnosis jenis gangguan perkembangan pada anak secara dini menggunakan metode faktor kepastian. Sistem ini memberikan kemudahan, kecepatan, dan efisiensi dalam mendiagnosis gangguan perkembangan pada anak tanpa harus berkonsultasi dengan dokter anak.
+
+2.2.9 "Berry Choresyo, Soni Akhmad Nulhaqim, & Hery Wibowo, KESADARAN MASYARAKAT TERHADAP PENYAKIT MENTAL,PROSIDING KS: RISET & PKM, VOLUME: 2, NOMOR: 3 HAL: 301 - 444, ISSN: 2442 - 4480"
+Artikel ini membahas tentang kurangnya kesadaran dan pengetahuan masyarakat Indonesia mengenai penyakit mental. Banyak masyarakat yang kurang mengenali gejala-gejala penyakit mental dan tidak tahu bagaimana menanganinya. Fenomena ini seringkali menyebabkan perlakuan yang salah terhadap penderita penyakit mental, seperti memasung mereka atau menganggap mereka menyusahkan. Artikel juga menjelaskan bahwa banyak jenis penyakit mental yang sulit terdeteksi melalui penampilan luar dan bukan merupakan bawaan lahir. Sosialisasi terkait penyakit mental sangat diperlukan agar masyarakat bisa mengenal dan mengerti bagaimana menangani penyakit mental.
+
+2.2.10 "Oguoma, S. I., Uka, K. K., Chukwu, C. A., & Nwaoha, E. C. (2020). An Expert System for Diagnosis and Treatment of Mental Ailment. Open Access Library Journal, 7, e6166. DOI: 10.4236/oalib.1106166"
+penelitian ini mengembangkan sebuah sistem pakar untuk diagnosis dan pengobatan penyakit mental. Sistem ini menggunakan kombinasi metode forward chaining dan backward chaining dalam proses inferensi untuk memberikan solusi kepada pengguna. Penelitian ini juga mencakup pengembangan antarmuka yang ramah pengguna dan dapat diakses melalui desktop komputer atau melalui URL. Meskipun belum diuji coba dalam praktik klinis, penelitian ini merekomendasikan penelitian lanjutan untuk mengembangkan sistem pakar yang lebih canggih dan mencakup aspek lain dalam pengobatan penyakit mental.
+
+
+...
